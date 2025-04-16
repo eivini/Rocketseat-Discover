@@ -21,7 +21,7 @@
 
 <pre>
 📦 raiz do projeto
-├── assets/                 # Imagens, ícones, etc 
+├── assets/                # Imagens, ícones, etc 
 ├── .vscode/               # Configurações 
 │   ├── extensions.json
 │   └── settings.json
